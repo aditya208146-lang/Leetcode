@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/aditya208146-lang/Leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/aditya208146-lang/Leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/aditya208146-lang/Leetcode/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/aditya208146-lang/Leetcode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/aditya208146-lang/Leetcode/tree/master/0049-group-anagrams) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/aditya208146-lang/Leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
