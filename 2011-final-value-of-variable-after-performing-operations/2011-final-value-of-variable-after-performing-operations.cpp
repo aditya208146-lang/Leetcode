@@ -4,8 +4,15 @@ public:
         
         
         int x = 0;
-        for(auto s : operations)
-            x += (s[1] == '+') ? 1 : -1;
+        
+        for (const string& op : operations) {
+            if (op[1] == '+') {
+                x += 1;
+            } else {
+                x -= 1;
+            }
+        }
+        
         return x;
     
     }
