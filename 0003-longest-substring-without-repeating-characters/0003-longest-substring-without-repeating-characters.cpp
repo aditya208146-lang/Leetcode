@@ -11,7 +11,7 @@ public:
         }
         
         while(r < n){
-            if(hash[s[l]] != -1){
+            if(hash[s[r]] != -1){
                 if(hash[s[r]]>=l){
                     l=hash[s[r]]+1;
                 }
