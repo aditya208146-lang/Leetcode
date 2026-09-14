@@ -148,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/aditya208146-lang/Leetcode/tree/master/0203-remove-linked-list-elements) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/aditya208146-lang/Leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
