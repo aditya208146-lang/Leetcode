@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/aditya208146-lang/Leetcode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/aditya208146-lang/Leetcode/tree/master/0066-plus-one) |
+| [0836-rectangle-overlap](https://github.com/aditya208146-lang/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aditya208146-lang/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aditya208146-lang/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Dynamic Programming
@@ -152,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/aditya208146-lang/Leetcode/tree/master/0176-second-highest-salary) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/aditya208146-lang/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
