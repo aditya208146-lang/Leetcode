@@ -166,11 +166,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/aditya208146-lang/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/aditya208146-lang/Leetcode/tree/master/0206-reverse-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aditya208146-lang/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/aditya208146-lang/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/aditya208146-lang/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Database
 |  |
 | ------- |
