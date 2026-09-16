@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aditya208146-lang/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0455-assign-cookies](https://github.com/aditya208146-lang/Leetcode/tree/master/0455-assign-cookies) |
 | [1480-running-sum-of-1d-array](https://github.com/aditya208146-lang/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/aditya208146-lang/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aditya208146-lang/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aditya208146-lang/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aditya208146-lang/Leetcode/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/aditya208146-lang/Leetcode/tree/master/0455-assign-cookies) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/aditya208146-lang/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Math
 |  |
 | ------- |
