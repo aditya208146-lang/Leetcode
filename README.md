@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/aditya208146-lang/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/aditya208146-lang/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aditya208146-lang/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/aditya208146-lang/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aditya208146-lang/Leetcode/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aditya208146-lang/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0455-assign-cookies](https://github.com/aditya208146-lang/Leetcode/tree/master/0455-assign-cookies) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aditya208146-lang/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/aditya208146-lang/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aditya208146-lang/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/aditya208146-lang/Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/aditya208146-lang/Leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/aditya208146-lang/Leetcode/tree/master/0268-missing-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aditya208146-lang/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Sorting
 |  |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/aditya208146-lang/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/aditya208146-lang/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aditya208146-lang/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/aditya208146-lang/Leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/aditya208146-lang/Leetcode/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditya208146-lang/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/aditya208146-lang/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -81,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/aditya208146-lang/Leetcode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/aditya208146-lang/Leetcode/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/aditya208146-lang/Leetcode/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/aditya208146-lang/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aditya208146-lang/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aditya208146-lang/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -93,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aditya208146-lang/Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/aditya208146-lang/Leetcode/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aditya208146-lang/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Divide and Conquer
 |  |
