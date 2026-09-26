@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aditya208146-lang/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/aditya208146-lang/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aditya208146-lang/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/aditya208146-lang/Leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2733-neither-minimum-nor-maximum](https://github.com/aditya208146-lang/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2974-minimum-number-game](https://github.com/aditya208146-lang/Leetcode/tree/master/2974-minimum-number-game) |
 ## Hash Table
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aditya208146-lang/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aditya208146-lang/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aditya208146-lang/Leetcode/tree/master/0268-missing-number) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/aditya208146-lang/Leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## String
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/aditya208146-lang/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditya208146-lang/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/aditya208146-lang/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/aditya208146-lang/Leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2733-neither-minimum-nor-maximum](https://github.com/aditya208146-lang/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2974-minimum-number-game](https://github.com/aditya208146-lang/Leetcode/tree/master/2974-minimum-number-game) |
 ## Math
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/aditya208146-lang/Leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2974-minimum-number-game](https://github.com/aditya208146-lang/Leetcode/tree/master/2974-minimum-number-game) |
 ## Stack
 |  |
