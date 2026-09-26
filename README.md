@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/aditya208146-lang/Leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/aditya208146-lang/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/aditya208146-lang/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/aditya208146-lang/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/aditya208146-lang/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/aditya208146-lang/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aditya208146-lang/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/aditya208146-lang/Leetcode/tree/master/0054-spiral-matrix) |
 | [1920-build-array-from-permutation](https://github.com/aditya208146-lang/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aditya208146-lang/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2974-minimum-number-game](https://github.com/aditya208146-lang/Leetcode/tree/master/2974-minimum-number-game) |
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aditya208146-lang/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/aditya208146-lang/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
