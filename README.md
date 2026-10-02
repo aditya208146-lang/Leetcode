@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aditya208146-lang/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aditya208146-lang/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aditya208146-lang/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/aditya208146-lang/Leetcode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/aditya208146-lang/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/aditya208146-lang/Leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## String
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/aditya208146-lang/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/aditya208146-lang/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/aditya208146-lang/Leetcode/tree/master/0058-length-of-last-word) |
+| [0389-find-the-difference](https://github.com/aditya208146-lang/Leetcode/tree/master/0389-find-the-difference) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aditya208146-lang/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Trie
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aditya208146-lang/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aditya208146-lang/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aditya208146-lang/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/aditya208146-lang/Leetcode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/aditya208146-lang/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditya208146-lang/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditya208146-lang/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/aditya208146-lang/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/aditya208146-lang/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/aditya208146-lang/Leetcode/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aditya208146-lang/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Divide and Conquer
 |  |
