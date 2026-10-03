@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/aditya208146-lang/Leetcode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/aditya208146-lang/Leetcode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aditya208146-lang/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/aditya208146-lang/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aditya208146-lang/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditya208146-lang/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/aditya208146-lang/Leetcode/tree/master/0836-rectangle-overlap) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aditya208146-lang/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/aditya208146-lang/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aditya208146-lang/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/aditya208146-lang/Leetcode/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aditya208146-lang/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/aditya208146-lang/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/aditya208146-lang/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/aditya208146-lang/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/aditya208146-lang/Leetcode/tree/master/0231-power-of-two) |
 ## Database
 |  |
 | ------- |
