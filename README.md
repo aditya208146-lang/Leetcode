@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aditya208146-lang/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/aditya208146-lang/Leetcode/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/aditya208146-lang/Leetcode/tree/master/0389-find-the-difference) |
+| [1021-remove-outermost-parentheses](https://github.com/aditya208146-lang/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aditya208146-lang/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Trie
 |  |
@@ -230,8 +231,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aditya208146-lang/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1021-remove-outermost-parentheses](https://github.com/aditya208146-lang/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aditya208146-lang/Leetcode/tree/master/0054-spiral-matrix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/aditya208146-lang/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
