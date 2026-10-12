@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/aditya208146-lang/Leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2733-neither-minimum-nor-maximum](https://github.com/aditya208146-lang/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aditya208146-lang/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aditya208146-lang/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2974-minimum-number-game](https://github.com/aditya208146-lang/Leetcode/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/aditya208146-lang/Leetcode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/aditya208146-lang/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/aditya208146-lang/Leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aditya208146-lang/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## String
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aditya208146-lang/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/aditya208146-lang/Leetcode/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aditya208146-lang/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aditya208146-lang/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/aditya208146-lang/Leetcode/tree/master/0455-assign-cookies) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aditya208146-lang/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aditya208146-lang/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aditya208146-lang/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
